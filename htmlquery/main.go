@@ -1,3 +1,4 @@
+// htmlquery selects nodes from HTML documents by CSS selector expressions.
 package main
 
 import (
